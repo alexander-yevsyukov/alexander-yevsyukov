@@ -27,7 +27,7 @@ I've been programming for money since 1992 — passionate about building meaning
 ## 🌟 Highlight Project
 
 ### [SpineEventEngine](https://github.com/SpineEventEngine)
-Event-driven framework for building cloud applications with DDD and CQRS patterns.
+Event-driven framework for building cloud applications with DDD and CQRS.
 
 ---
 
